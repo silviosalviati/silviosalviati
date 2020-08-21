@@ -10,7 +10,7 @@ Analista de banco de dados e amante pelo desenvolvimento web, tenho como objetiv
 ### Skills :book:
 - **Bancos de dados:** Postgres, MySQL, SQL Server, Oracle
 - **Back-End:** PHP e NodeJS, Python
-- **Front-End:** Javascript, Typescript, ReactJS, HTML5, CSS3
+- **Front-End:** Javascript, Typescript, ReactJS, HTML5, CSS3,Django
 - **Data Science:** Tableau, R, Pandas
 
 ### Contatos :phone:
