@@ -17,3 +17,5 @@ Analista de banco de dados e amante pelo desenvolvimento web, tenho como objetiv
 - E-mail: silviosalviati@gmail.com
 - Linkedin: https://www.linkedin.com/in/silvio-salviati-6a60b048/
 - Rocketset: https://app.rocketseat.com.br/me/silviosalviati-1566615951
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviosalviati)](https://github.com/silviosalviati/github-readme-stats)
