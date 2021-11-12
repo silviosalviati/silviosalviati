@@ -3,6 +3,7 @@ Eterno aluno, aprendiz de boas práticas e novas tecnologias. Tenho mais de 15 a
 Analista de banco de dados e amante pelo desenvolvimento web, tenho como objetivo aprimorar meus conhecimentos em _React, React Native, NodeJS, VueJS_ e todo o ecossistema Javascript, tornando-se um Desenvolvedor FullStack completo:muscle:
 
 ### Formação :mortar_board:
+- **Cursando MBA em Big Data & Business Analytcs** - Em andamento ( término em junho/22 )
 - **Full Stack Developer**, Rocketseat ( 2020 )
 - **MCSA (Microsoft Certified Solutions Associate) SQL Server 2012 Database Administration**, KaSolution ( 2015 )
 - **Tecnólogo em Sistemas para Internet**, UNISUL ( 2014 - 2016 ) 
