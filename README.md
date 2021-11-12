@@ -12,7 +12,8 @@ Analista de banco de dados e amante pelo desenvolvimento web, tenho como objetiv
 - **Bancos de dados:** Postgres, MySQL, SQL Server, Oracle
 - **Back-End:** PHP e NodeJS, Python
 - **Front-End:** Javascript, Typescript, ReactJS, HTML5, CSS3,Django
-- **Data Science:** Tableau, R, Pandas
+- **Data Visualization** Power BI, Data Studio, Tableau
+
 
 ### Contatos :phone:
 - E-mail: silviosalviati@gmail.com
